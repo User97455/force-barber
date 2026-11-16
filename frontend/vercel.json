@@ -5,7 +5,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://ad30057b933a94.app.lhr.life/api/$1"
+      "destination": "https://tg-barber-api.onrender.com/api/$1"
     },
     {
       "source": "/(.*)",
